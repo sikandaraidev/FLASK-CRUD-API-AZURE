@@ -113,6 +113,3 @@ JSON payloads are validated with Pydantic models.
 
 AIDEV © [Your Name](https://github.com/sikandaraidev)
 
----
-
-Let me know if you want this README adapted for a specific model like `Product` or to include Docker instructions, Swagger/OpenAPI, or JWT auth.
