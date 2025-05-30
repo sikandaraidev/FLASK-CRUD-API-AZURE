@@ -1,7 +1,3 @@
-Thanks for the clarification. Here's a professional and effective `README.md` for your modular Flask CRUD API project using Azure MySQL, SQLAlchemy, and Pydantic:
-
----
-
 # 🔧 Flask Modular CRUD API (Azure MySQL + SQLAlchemy + Pydantic)
 
 A production-ready, modular Flask API demonstrating clean architecture and CRUD operations with SQLAlchemy ORM, Pydantic validation, and Azure MySQL integration.
